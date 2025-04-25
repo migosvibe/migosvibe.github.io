@@ -1,0 +1,10 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M319.846 70L354.487 50V90.0002L354.488 90V130L319.846 150L285.206 130.001L285.206 130L319.846 110V70Z" fill="black"/>
+<rect width="40" height="40" transform="matrix(0.866025 0.5 -0.866025 0.5 285.206 90)" fill="#404040"/>
+<rect width="40" height="40" transform="matrix(0.866025 0.5 0 1 285.205 50)" fill="#1F1F1F"/>
+<rect width="40" height="40" transform="matrix(0.866025 0.5 -0.866025 0.5 319.846 30)" fill="#404040"/>
+<rect width="40" height="40" transform="matrix(0.866025 0.5 -0.866025 0.5 112 190)" fill="#404040"/>
+<rect width="40" height="40" transform="matrix(0.866025 0.5 -0.866025 0.5 77.3594 170)" fill="#404040"/>
+<rect width="40" height="80" transform="matrix(0.866025 0.5 0 1 42.7183 190)" fill="#1F1F1F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112 190L77.3594 210V290L112 270V269.999L146.642 249.999V209.999L112 229.999V190Z" fill="black"/>
+</svg>

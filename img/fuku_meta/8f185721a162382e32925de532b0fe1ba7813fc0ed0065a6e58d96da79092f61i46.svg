@@ -1,0 +1,8 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 285.205 10)" fill="#404040"/>
+<rect width="40" height="80" transform="matrix(0.866025 0.5 0 1 215.923 50)" fill="#1F1F1F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M285.205 50L250.564 70V150L285.206 129.999L319.846 149.999L319.846 30H319.846L285.205 50Z" fill="black"/>
+<rect width="40" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 146.641 90)" fill="#404040"/>
+<rect width="40" height="120" transform="matrix(0.866025 0.5 0 1 77.3589 130)" fill="#1F1F1F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M146.641 130L112 150V230V270L146.641 250V210L181.282 190V110L146.641 130Z" fill="black"/>
+</svg>

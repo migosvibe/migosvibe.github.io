@@ -1,0 +1,16 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_713_80995)">
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 302.282 490)" fill="#B2020C"/>
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 267.641 510)" fill="#DF020F"/>
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 302.282 450)" fill="#DF020F"/>
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 233 490)" fill="#DF020F"/>
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 302.282 410)" fill="#B2020C"/>
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 267.641 430)" fill="#DF020F"/>
+<rect width="40" height="40" transform="matrix(0.866025 -0.5 0 1 233 450)" fill="#B2020C"/>
+</g>
+<defs>
+<clipPath id="clip0_713_80995">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+</defs>
+</svg>

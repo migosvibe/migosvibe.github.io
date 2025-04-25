@@ -1,0 +1,8 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 354.487 90)" fill="white"/>
+<rect width="80" height="140" transform="matrix(0.866025 0.5 0 1 285.205 130)" fill="#E9F1F3"/>
+<rect width="80" height="140" transform="matrix(0.866025 -0.5 0 1 354.487 170)" fill="#B3D0D5"/>
+<rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 250.564 150)" fill="white"/>
+<rect width="80" height="140" transform="matrix(0.866025 0.5 0 1 181.282 190)" fill="#E9F1F3"/>
+<rect width="80" height="140" transform="matrix(0.866025 -0.5 0 1 250.564 230)" fill="#B3D0D5"/>
+</svg>
